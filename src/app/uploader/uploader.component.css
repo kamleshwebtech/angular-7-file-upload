@@ -1,0 +1,26 @@
+body, h1, h2, h3, h4{
+	font-family: arial !important;
+}
+.upload_file_wrapper{
+	width: 500px;
+	border:solid 1px #dadada;
+	border-radius:10px;
+	background-color: #dadada;
+	margin:0px auto;
+	padding: 20px 20px 50px 20px;
+	min-height: 125px;
+}
+.box1{
+	width: 45%;float:left;
+}
+.box2{
+	width: 45%;float:right;
+}
+img{
+	background-color: white;
+	max-width: 200px;
+	max-height: 200px;
+	border:solid 1px #ffffff;
+	border-radius: 4px;
+	padding: 10px;
+}
