@@ -1,4 +1,4 @@
-# Test2components
+# Angular 7 File Upload By Using PHP As Backend Script
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 7.1.4.
 
